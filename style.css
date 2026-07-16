@@ -18,13 +18,13 @@ div{
 h2{
     font-size: 30px;
     font-weight: bold;
-    color: rgb(99, 34, 34);
+    color: blue;
     margin-bottom: 10px;
 }
 button{
     border-radius: 7px;
     font-size: 14px;
-    background-color:rgb(99, 34, 34) ;
+    background-color:blue ;
     color: white;
     padding: 5px 10px;
 }
